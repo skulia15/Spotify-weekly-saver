@@ -1,0 +1,21 @@
+{
+  "name": "discover-weekly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "node-cron": "^3.0.2",
+    "passport": "^0.6.0",
+    "passport-spotify": "^2.0.0",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "type": "module"
+}
